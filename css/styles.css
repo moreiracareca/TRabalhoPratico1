@@ -1,0 +1,10 @@
+.backgroundDisable {
+  background-color: rgb(240, 229, 229);
+  width: 50px;
+}
+
+#divRGB {
+  width: 200px;
+  height: 200px;
+  background-color: black;
+}
